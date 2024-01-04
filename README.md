@@ -129,6 +129,12 @@ Para criar um link embutido colocando o texto do link entre colchetes ``[ ]`` e 
 ## Imagens
 
 Você pode exibir uma imagem adicionando ``!`` antes do colchetes ``[ ]`` e coloque a url entre parenteses ``( )``.
+
+```
+![texto](url)
+```
+
+
     ![imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ## Emojis
