@@ -136,7 +136,7 @@ Você pode exibir uma imagem adicionando ``!`` antes do colchetes ``[ ]`` e colo
 
 ![imagem](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
-Emojis
+## Emojis
 
 [Repositório](https://github.com/ikatyang/emoji-cheat-sheet/tree/master) para os Emojis.
 
