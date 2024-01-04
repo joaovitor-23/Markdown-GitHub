@@ -164,7 +164,7 @@ Para ordenar a lista, coloque um número na frente de cada linha seguido de um p
 
 Você pode criar uma lista aninhada recuando um ou mais itens da lista abaixo de outro item.
 
-Lista nao ordenada:
+Lista nao ordenada
 
 1. Primeiro item da lista nao ordenada.
 
@@ -174,7 +174,7 @@ Lista nao ordenada:
 
    + Terceiro item da lista aninhada nao ordenada.
 
-Lista ordenada:
+Lista ordenada
 
 1. Primeiro item da lista ordenada.
    1. Primeiro item da lista aninhada ordenada.
@@ -183,7 +183,7 @@ Lista ordenada:
 
 ## Listas de tarefas
 
-Para criar uma lista de tarefas usando uma combinação de listas e colchetes. As listas de tarefas são úteis para gerenciar tarefas, bugs ou outros itens que precisam ser marcados como concluídos. Veja como você pode criar uma lista de tarefas:
+Para criar uma lista de tarefas usando uma combinação de listas e colchetes. As listas de tarefas são úteis para gerenciar tarefas, bugs ou outros itens que precisam ser marcados como concluídos. Veja como você pode criar uma lista de tarefas.
 
     - [ ]
 
@@ -237,7 +237,7 @@ Alertas, uma funcionalidade do Markdown inspirada na sintaxe de blockquote, perm
 
 ## Criar uma tabela
 
-Para construir tabelas utilize o caractere da Barra vertical (pipe) ``|`` para separar as colunas e hífens ``-`` para definir o cabeçalho. As colunas são delimitadas pelas barras verticais, e é essencial deixar uma linha vazia acima da tabela para sua formatação adequada. Para mais informações leia a [**documentação**](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#creating-a-table)
+Para construir tabelas utilize o caractere da Barra vertical (pipe) ``|`` para separar as colunas e hífens ``-`` para definir o cabeçalho. As colunas são delimitadas pelas barras verticais, e é essencial deixar uma linha vazia acima da tabela para sua formatação adequada. Para mais informações leia a [**documentação**](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#creating-a-table).
 
 ```
 | Primeiro cabeçalho  | Segundo cabeçalho  |
@@ -269,7 +269,7 @@ Você pode alinhar o texto à esquerda, à direita ou no centro de uma coluna in
 | git status           |   git status   |          git status |
 | git diff             |    git diff    |            git diff |
 
-Para incluir uma barra vertical ``|`` como conteúdo dentro da célula, use ``\`` antes da barra vertical:
+Para incluir uma barra vertical ``|`` como conteúdo dentro da célula, use ``\`` antes da barra vertical.
 
 ```
 | Nome     | Caractere |
