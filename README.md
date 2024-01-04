@@ -83,7 +83,7 @@ Sobrescrito:
     <sup>texto</sup>
 ```
 
-Este é o texto `<sup>`sobrescrito`</sup>`.
+Este é o texto `<sup>`sobrescrito `</sup>`.
 
 ## linha de separação
 
@@ -93,9 +93,13 @@ A linha de separação é criada usando três ou mais caracteres iguais ``*`` ou
 
 ## Blocos de codigos
 
-Você pode usar três crases para iniciar e encerrar um bloco de código. Especificar a linguagem após os três backticks pode ajudar na formatação, fornecendo realce de sintaxe:
+Você pode usar três crases para iniciar e encerrar um bloco de código. Especificar a linguagem após os três backticks pode ajudar na formatação, fornecendo realce de sintaxe.
 
-    ``python         print("Hello, world!")     ``
+````
+```python
+ print("Hello, world!")
+````
+
 
 ```python
     print("Hello, world!")
