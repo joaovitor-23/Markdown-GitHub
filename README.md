@@ -160,7 +160,7 @@ Para ordenar a lista, coloque um número na frente de cada linha seguido de um p
 2. linha 2
 3. linha 3
 
-## Listas aninhadas:
+## Listas aninhadas
 
 Você pode criar uma lista aninhada recuando um ou mais itens da lista abaixo de outro item.
 
