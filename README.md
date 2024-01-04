@@ -98,6 +98,7 @@ Você pode usar três crases para iniciar e encerrar um bloco de código. Especi
 ````
 ```python
  print("Hello, world!")
+```
 ````
 
 
