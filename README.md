@@ -120,6 +120,10 @@ Você pode usar o sinal de maior ``>`` no início da linha ou do trecho que dese
 
 Para criar um link embutido colocando o texto do link entre colchetes ``[ ]`` e colocando a URL entre parênteses ``( )``.
 
+```
+[texto](url)
+```
+
 [GitHub Docs](https://docs.github.com/pt)
 
 ## Imagens
