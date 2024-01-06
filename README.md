@@ -117,7 +117,7 @@ Você pode usar o sinal de maior ``>`` no início da linha ou do trecho que dese
 
 ## Links
 
-Para criar um link embutido coloca-se o texto do link entre os colchetes ``[ ]`` e colocando a URL entre parênteses ``( )``.
+Para criar um link embutido coloca-se o texto do link entre os colchetes ``[ ]`` e colocando a URL entre parênteses  ``( )``.
 
 ```
 [texto](url)
