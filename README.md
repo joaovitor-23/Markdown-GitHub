@@ -101,7 +101,6 @@ Você pode usar três crases para iniciar e encerrar um bloco de código. Especi
 ```
 ````
 
-
 ```python
     print("Hello, world!")
 ```
@@ -118,7 +117,7 @@ Você pode usar o sinal de maior ``>`` no início da linha ou do trecho que dese
 
 ## Links
 
-Para criar um link embutido colocando o texto do link entre colchetes ``[ ]`` e colocando a URL entre parênteses ``( )``.
+Para criar um link embutido coloca-se o texto do link entre os colchetes ``[ ]`` e colocando a URL entre parênteses ``( )``.
 
 ```
 [texto](url)
@@ -264,10 +263,10 @@ Você pode alinhar o texto à esquerda, à direita ou no centro de uma coluna in
 | git diff     | git diff       | git diff      |
 ```
 
-| Alinhada à Esquerda | Center-aligned | Alinhado à direita |
-| :------------------- | :------------: | ------------------: |
-| git status           |   git status   |          git status |
-| git diff             |    git diff    |            git diff |
+| Alinhada à Esquerda | Centralizado | Alinhado à direita |
+| :------------------- | :----------: | ------------------: |
+| git status           |  git status  |          git status |
+| git diff             |   git diff   |            git diff |
 
 Para incluir uma barra vertical ``|`` como conteúdo dentro da célula, use ``\`` antes da barra vertical.
 
